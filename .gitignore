@@ -1,2 +1,8 @@
 django-ecommerce.code-workspace
 *.sqlite3
+env.py
+*pyc
+*.png
+static/
+media/
+*.jpg
